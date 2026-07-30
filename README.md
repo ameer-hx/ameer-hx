@@ -22,4 +22,4 @@ Rather than looking through private codebases, explore my live engineering deplo
 
 ---
 
-📫 **Let's build something exceptional:** [ameerhassandev.netlify.app](https://ameerhassandev.netlify.app/)
+📫 **Let's build something exceptional:** [ameerhassan.site](https://ameerhassan.site/)
