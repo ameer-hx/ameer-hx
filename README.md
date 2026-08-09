@@ -16,8 +16,8 @@ I am a premium frontend engineer and graphic designer based in **Dubai, UAE**. I
 
 ### 💼 Selected Live Digital Productions
 Rather than looking through private codebases, explore my live engineering deployments directly:
-- 🩺 **Dr. Ammar Anwer** – *Premium Neurosurgery & Medical Platform Redesign*
-- 🏎️ **HS Motors** – *Automotive Digital Marketing & Fleet Showcase Hub*
+- 🩺 [**Dr. Ammar Anwer** – *Premium Neurosurgery & Medical Platform Redesign*](https://drammaranwer.com/)
+- 🏎️ [**HS Motors** – *Automotive Digital Marketing & Fleet Showcase Hub*](https://hsmotors.site/)
 - 🪵 [**Muzeirea Carpentry** – *High-End Commercial Carpentry Portfolio Website*](https://muzeireacarpentry.com/)
 
 ---
